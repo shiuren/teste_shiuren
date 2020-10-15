@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  flex-direction: column;
+  m
+}
+
+.rectangle{
+  height: 100px;
+  width: 200px;
+  background-color: blue;
+  margin: inherit;
+}
+
+.rectangle1{
+  height: 100px;
+  width: 200px;
+  background-color: green;
+  margin: inherit;
+}
+
+.rectangle2{
+  height: 100px;
+  width: 200px;
+  background-color: red;
+  margin: inherit;
+}
